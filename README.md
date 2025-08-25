@@ -63,4 +63,4 @@ Each week includes **notes, mini-projects, and a final full-stack ready backend 
 
 ## 🧑‍💻 Author
 Prince Kumar  
-[LinkedIn](https://www.linkedin.com/in/prince-kumar/) | [GitHub](https://github.com/Prince1587)
+[LinkedIn](https://www.linkedin.com/in/prince-kumar-179138231) | [GitHub](https://github.com/Prince1587)
